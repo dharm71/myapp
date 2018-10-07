@@ -32,3 +32,5 @@ return db.query("Insert into student_tbl values(?,?,?,?)",[Student.rno,Student.n
 }
 };
 module.exports=Student;
+
+//my commets
